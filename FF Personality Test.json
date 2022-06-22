@@ -1,0 +1,499 @@
+{
+  "Game":
+  {
+    "Final Fantasy":
+    [
+      {
+        "ID":"0",
+        "Character": "Warrior",
+        "Character Trait": "You are the strong core of your friend group."
+      },
+      {
+        "ID":"1",
+        "Character": "White Mage",
+        "Character Trait": "You take care of everyone, everyone needs you and loves you."
+      },
+      {
+        "ID":"2",
+        "Character": "Black Mage",
+        "Character Trait": "You are the master of Sass."
+      },
+      {
+        "ID":"3",
+        "Character": "Thief",
+        "Character Trait": "You disappear a lot, but you always have the best stories"
+      },
+      {
+        "ID":"4",
+        "Character": "Monk",
+        "Character Trait": "You may be religious, but you are cool about it."
+      },
+      {
+        "ID":"5",
+        "Character": "Red Mage",
+        "Character Trait": "There is nothing you can't do."
+      }
+    ],
+    "Final Fantasy 2":
+    [
+      {
+        "ID":"0",
+        "Character": "Firion",
+        "Character Trait": "You have a really cool and unique name."
+      },
+      {
+        "ID":"1",
+        "Character": "Maria",
+        "Character Trait": "You are still somehow friend with people who knew you as a child."
+      },
+      {
+        "ID":"4",
+        "Character": "Guy",
+        "Character Trait": "You swear animals can understand you."
+      }
+    ],
+    "Final Fantasy 3":
+    [
+      {
+        "ID":"0",
+        "Character": "Luneth",
+        "Character Trait": "You leap before you look, and maybe that puts you in binds a lot."
+      },
+      {
+        "ID":"2",
+        "Character": "Arc",
+        "Character Trait": "You can be shy, but you always are their for friends"
+      },
+      {
+        "ID":"3",
+        "Character": "Refia",
+        "Character Trait": "You are the Parent of the Group."
+      },
+      {
+        "ID":"4",
+        "Character": "Ingus",
+        "Character Trait": "D E T E R M I N A T I O N"
+      }
+    ],
+    "Final Fantasy 4":
+    [
+      {
+        "ID":"0",
+        "Character": "Cecil Harvey",
+        "Character Trait": "You have had a radical personality change, but it's for the best."
+      },
+      {
+        "ID":"1",
+        "Character": "Kain Highwind",
+        "Character Trait": "You have a rivalhood with someone akin to Naruto and Sasuke."
+      },
+      {
+        "ID":"2",
+        "Character": "Rydia",
+        "Character Trait": "You have grown up a lot, and it's impressive."
+      },
+      {
+        "ID":"3",
+        "Character": "Tellah",
+        "Character Trait": "You are just the old man of the group."
+      },
+      {
+        "ID":"4",
+        "Character": "Edward Chris von Muir",
+        "Character Trait": "You probably took a guitar to a party unironically."
+      },
+      {
+        "ID":"5",
+        "Character": "Rosa Joanna Farrell",
+        "Character Trait": "You are kind and gentle, but are feriously protective."
+      },
+      {
+        "ID":"6",
+        "Character": "Yang Fang Leiden",
+        "Character Trait": "Please, do tell me about your Black Belt."
+      },
+      {
+        "ID":"7",
+        "Character": "Palom",
+        "Character Trait": "You are probably a child prodigy, and have mastered the art of sarcasm"
+      },
+      {
+        "ID":"8",
+        "Character": "Porom",
+        "Character Trait": "You are probably a child prodigy, and have mastered the art of being oblivious to sarcasm"
+      },
+      {
+        "ID":"9",
+        "Character": "Cid Pollendina",
+        "Character Trait": "You tell everyone how Picard was the best Starfleet Captain, to have ever existed."
+      },
+      {
+        "ID":"10",
+        "Character": "Edge Geraldine",
+        "Character Trait": "You swear you were into ninjas before Naruto."
+      },
+      {
+        "ID":"11",
+        "Character": "Fusoya",
+        "Character Trait": "You Hail from the Mystical Moon"
+      }
+    ],
+    "Final Fantasy 5":
+    [
+      {
+        "ID":"0",
+        "Character": "Bartz Klauser",
+        "Character Trait": "Confidence is something you don't struggle with."
+      },
+      {
+        "ID":"1",
+        "Character": "Lenna Charlotte Tycoon",
+        "Character Trait": "You are selfless and impulsive, which means you might struggle with money."
+      },
+      {
+        "ID":"2",
+        "Character": "Galuf Halm Baldesion",
+        "Character Trait": "You are always making jokes...Even when it's not appropriate."
+      },
+      {
+        "ID":"3",
+        "Character": "Faris Scherwiz",
+        "Character Trait": "You are seen as ruthless, but you would say you just speak your mind without obscuring what you mean."
+      },
+      {
+        "ID":"4",
+        "Character": "Krile Mayer Baldesion",
+        "Character Trait": "You tease your friends, but people outside the group better not."
+      }
+    ],
+    "Final Fantasy 6":
+    [
+      {
+        "ID":"0",
+        "Character": "Terra Branford",
+        "Character Trait": "You Give off Homeschooler Energy, and only became your own person at college...Ya me too"
+      },
+      {
+        "ID":"1",
+        "Character": "Locke Cole",
+        "Character Trait": "You consume a lot of obscure media that no one has heard of."
+      },
+      {
+        "ID":"2",
+        "Character": "Edgar Roni Figaro",
+        "Character Trait": "You may have the rich kid energy, but you don't flex the wealth"
+      },
+      {
+        "ID":"3",
+        "Character": "Sabin Rene Figaro",
+        "Character Trait": "You got SUPER into Fitness didn't you?"
+      },
+      {
+        "ID":"4",
+        "Character": "Cyan Garamonde",
+        "Character Trait": "Mi'lady intensifies"
+      },
+      {
+        "ID":"5",
+        "Character": "Gau",
+        "Character Trait": "Everyone around you is asking you to PLEASE take a shower and clip your nails"
+      },
+      {
+        "ID":"6",
+        "Character": "Celes Chere",
+        "Character Trait": "You had a group of friends, but relized they were bad influences. So now you have a new friend group who lifts you up."
+      },
+      {
+        "ID":"7",
+        "Character": "Setzer Gabbiani",
+        "Character Trait": "The Card Shop owns your soul don't they?"
+      },
+      {
+        "ID":"8",
+        "Character": "Shadow",
+        "Character Trait": "While other's partied, you studied the blade."
+      },
+      {
+        "ID":"9",
+        "Character": "Relm Arrowny",
+        "Character Trait": "You are young at heart and are the artist of the gang."
+      },
+      {
+        "ID":"10",
+        "Character": "Strago Magus",
+        "Character Trait": "You are over 30 and probably need to take Tylenol for your knees."
+      },
+      {
+        "ID":"11",
+        "Character": "Mog",
+        "Character Trait": "Can't...Stop...Dancing."
+      },
+      {
+        "ID":"12",
+        "Character": "Umaro",
+        "Character Trait": "You got serious ADHD and do whatever you want, and I respect that."
+      },
+      {
+        "ID":"13",
+        "Character": "Gogo",
+        "Character Trait": "If all your friends were jumping off a bridge...you would too."
+      }
+    ],
+    "Final Fantasy 7":
+    [
+      {
+        "ID":"0",
+        "Character": "Cloud Strife",
+        "Character Trait": "Try and Smile once in a while...Everyone else needs this from you."
+      },
+      {
+        "ID":"1",
+        "Character": "Barret Wallace",
+        "Character Trait": "You may appear rough around the edges, but you have a heart of gold."
+      },
+      {
+        "ID":"2",
+        "Character": "Tifa Lockhart",
+        "Character Trait": "Everyone loves you for your personality"
+      },
+      {
+        "ID":"4",
+        "Character": "Aeris Gainsborough",
+        "Character Trait": "All smiles till something snaps, then it's a chair over the head."
+      },
+      {
+        "ID":"5",
+        "Character": "Red XIII",
+        "Character Trait": "You don't say much, but when you do people listen."
+      },
+      {
+        "ID":"6",
+        "Character": "Cait Sith",
+        "Character Trait": "You probably spend too much money on video game cosmetics"
+      },
+      {
+        "ID":"7",
+        "Character": "Cid Highwind",
+        "Character Trait": "Your back...Constantly hurts. You say it's from carrying the team...but its not...It's because you are old."
+      },
+      {
+        "ID":"8",
+        "Character": "Yuffie Kisaragi",
+        "Character Trait": "Stop stealing peoples hoodies. Please."
+      },
+      {
+        "ID":"9",
+        "Character": "Vincent Valentine",
+        "Character Trait": "Ow the edge"
+      },
+      {
+        "ID":"10",
+        "Character": "Sephiroth",
+        "Character Trait": "Ok Google: Define Mommy Issues"
+      }
+    ],
+    "Final Fantasy 8":
+    [
+      {
+        "ID":"0",
+        "Character": "Squall Leonhart",
+        "Character Trait": "...Whatever"
+      },
+      {
+        "ID":"1",
+        "Character": "Rinoa Heartilly",
+        "Character Trait": "You own at least one dog, and if anything happens to it, John Wick will look like Mr. Rodgers."
+      },
+      {
+        "ID":"2",
+        "Character": "Quistis Trepe",
+        "Character Trait": "You are the teacher of the group"
+      },
+      {
+        "ID":"3",
+        "Character": "Zell Dincht",
+        "Character Trait": "Please don't consider a Face tattoo, it looks cool on everyone else, but just not you."
+      },
+      {
+        "ID":"4",
+        "Character": "Selphie Tilmitt",
+        "Character Trait": "You always seem so carefree, and people love you for it."
+      },
+      {
+        "ID":"5",
+        "Character": "Irvine Kinneas",
+        "Character Trait": "You are the only one who can pull off a Cowboy hat"
+      }
+    ],
+    "Final Fantasy 9":
+    [
+      {
+        "ID":"0",
+        "Character": "Zidane Tribal",
+        "Character Trait": "You are well meaning, but you might say some things that aren't cash money"
+      },
+      {
+        "ID":"1",
+        "Character": "Vivi Ornitier",
+        "Character Trait": "You are a pure hearted individual"
+      },
+      {
+        "ID":"2",
+        "Character": "Garnet Til Alexandros XVII",
+        "Character Trait": "The Dictionary has your picture next to the word Naive, but you are willing to learn"
+      },
+      {
+        "ID":"3",
+        "Character": "Adelbert Steiner",
+        "Character Trait": "Can you tell me when the next Ren-Faire is, I don't know why...But you look like you might know."
+      },
+      {
+        "ID":"4",
+        "Character": "Freya Crescent",
+        "Character Trait": "You loved someone long ago, and they left a hole where your heart is."
+      },
+      {
+        "ID":"5",
+        "Character": "Quina Quen",
+        "Character Trait": "You are a foodie, and everyone one both loves this and hates it. I'm sorry I like Taco Bell"
+      },
+      {
+        "ID":"6",
+        "Character": "Eiko Carol",
+        "Character Trait": "Your collection of stuffies knows no bounds"
+      },
+      {
+        "ID":"7",
+        "Character": "Amarant Coral",
+        "Character Trait": "You probably would look right at home at the gym."
+      }
+    ],
+    "Final Fantasy 10":
+    [
+      {
+        "ID":"0",
+        "Character": "Tidus",
+        "Character Trait": "Your father left to get milk and never came back."
+      },
+      {
+        "ID":"1",
+        "Character": "Yuna",
+        "Character Trait": "Religious Guilt is a thing you experience"
+      },
+      {
+        "ID":"2",
+        "Character": "Auron",
+        "Character Trait": "You can be cynical, some would even say dead on the inside"
+      },
+      {
+        "ID":"3",
+        "Character": "Kimahri",
+        "Character Trait": "On a scale of 1-10 how much of a furry would you say you are?"
+      },
+      {
+        "ID":"3",
+        "Character": "Wakka",
+        "Character Trait": "Somehow Someway...You mangaged to make the Water Polo team"
+      },
+      {
+        "ID":"3",
+        "Character": "Lulu",
+        "Character Trait": "Stop stealing everyone's belts, we need those"
+      },
+      {
+        "ID":"3",
+        "Character": "Rikku",
+        "Character Trait": "You probably collect gagets, but what you really need is a Fidget Spinner"
+      }
+    ],
+    "Final Fantasy 12":
+    [
+      {
+        "ID":"0",
+        "Character": "Vaan",
+        "Character Trait": "Is Aladdin your favorite Disney Hero?"
+      },
+      {
+        "ID":"1",
+        "Character": "Penelo",
+        "Character Trait": "Your older siblings taught you all the fun swears, and you love moving your body."
+      },
+      {
+        "ID":"2",
+        "Character": "Balthier",
+        "Character Trait": "No...Han Solo is not a personality"
+      },
+      {
+        "ID":"3",
+        "Character": "Fran",
+        "Character Trait": "No, I'm not a furry why do you ask?"
+      },
+      {
+        "ID":"4",
+        "Character": "Basch fon Ronsenburg",
+        "Character Trait": "You once got grounded and now you must atone"
+      },
+      {
+        "ID":"5",
+        "Character": "Ashelia B'nargin Dalmasca",
+        "Character Trait": "You have immense amounts of responcibility, but you really just want to read a romance novel"
+      }
+    ],
+    "Final Fantasy 13":
+    [
+      {
+        "ID":"0",
+        "Character": "Lightning",
+        "Character Trait": "You love your siblings more than your own life."
+      },
+      {
+        "ID":"1",
+        "Character": "Snow Villiers",
+        "Character Trait": "You probably would look good Snowboarding."
+      },
+      {
+        "ID":"2",
+        "Character": "Oerba Dia Vanille",
+        "Character Trait": "You alude to past troubles, but they may be more exaggerated than real."
+      },
+      {
+        "ID":"3",
+        "Character": "Sazh Katzroy",
+        "Character Trait": "You unironically want to take crows."
+      },
+      {
+        "ID":"4",
+        "Character": "Hope Estheim",
+        "Character Trait": "You didn't mean to end up in the friend group you are in, but you know what...You still like them"
+      },
+      {
+        "ID":"5",
+        "Character": "Oerba Yun Fang",
+        "Character Trait": "You have a really cool arm sleeve tattoo"
+      }
+    ],
+    "Final Fantasy 15":
+    [
+      {
+        "ID":"0",
+        "Character": "Noctis Lucis Caelum",
+        "Character Trait": "You are the oldest child, and you have GREAT hair"
+      },
+      {
+        "ID":"1",
+        "Character": "Ignis Scientia",
+        "Character Trait": "You never let anyone drive on road trips, and that means you decide where everyone eats...also Great Hair"
+      },
+      {
+        "ID":"2",
+        "Character": "Gladiolus Amicitia",
+        "Character Trait": "You like to work out, have a sick tatto...and you can make the mullet work"
+      },
+      {
+        "ID":"3",
+        "Character": "Prompto Argentum",
+        "Character Trait": "You are the Instagrammer of the group, everything needs a picture. Everyone is ok with this because just like them...You have great hair."
+      }
+    ]
+  }
+}
